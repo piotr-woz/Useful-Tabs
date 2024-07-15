@@ -6,10 +6,10 @@ JS implementation of very useful tabs for use on websites
 
 ## Running the page
 
-Just click this [link](https://piterbud.github.io/Useful-Tabs/)
+Just click this [link](https://piotr-woz.github.io/Useful-Tabs/)
 
 ## Technologies
 
 * JavaScript
-* HTML
-* CSS
+* HTML5
+* CSS3

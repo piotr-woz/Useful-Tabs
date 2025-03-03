@@ -10,6 +10,6 @@ Just click this [link](https://piotr-woz.github.io/Useful-Tabs/)
 
 ## Technologies
 
-* JavaScript
 * HTML5
 * CSS3
+* JavaScript
